@@ -33,3 +33,26 @@ Domain: lab.local
  [ DC01 ]            [ CL01 ]
 (172.16.0.1)        (172.16.0.10)
 
+
+## Network setup
+
+Here I added created a new VLAN for AD from my VXLAN that is configured across my lab enviorment 
+
+
+I then set an IT for the nee VLAN subnet 
+
+from there I add that subnet with and attached said VLAN tag to both VMS
+
+
+
+## VM Installation ( Windows server 2019 & Windows 10 2022 )
+
+
+
+
+
+
+
+
+
+
