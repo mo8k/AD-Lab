@@ -1,8 +1,10 @@
+ 
+# 🏗 Architecture & Topology
+
  ## Project Overview
 
 This project documents the deployment of a Windows-based Active Directory environment within a Proxmox VE cluster. The goal is to demonstrate core SysAdmin skills: virtualization, networking, and identity management.
 
-# 🏗 Architecture & Topology
 
 To simulate a real-world enterprise environment, the lab is hosted on an isolated virtual network.
 
